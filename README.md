@@ -44,6 +44,9 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+<img width="1600" height="724" alt="image" src="https://github.com/user-attachments/assets/93abbff2-57b3-4399-9633-bbaf674d4a71" />
+<img width="1600" height="740" alt="image" src="https://github.com/user-attachments/assets/7c7189ec-7118-475d-bf8b-e2ad2383cd6a" />
+<img width="1600" height="743" alt="image" src="https://github.com/user-attachments/assets/62d0938c-02ec-45bc-a5c4-af589be42e0a" />
 
 ### Name:
 ### Register Number:
